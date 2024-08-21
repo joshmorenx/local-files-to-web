@@ -27,4 +27,5 @@ app.get('/', (req, res) => {
 
 app.listen(port, () => {
     console.log(`Servidor escuchando en http://localhost:${port}`);
+    console.log('Cersiorarse de que la unidad de red Z: esté montada');
 });
