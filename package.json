@@ -1,0 +1,17 @@
+{
+  "name": "nwan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ngrok": "^5.0.0-beta.2",
+    "serve-index": "^1.9.1"
+  }
+}
